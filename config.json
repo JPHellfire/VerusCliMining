@@ -4,7 +4,7 @@
 		"name": "Mobile",
         	"url": "stratum+tcp://verushash.auto.nicehash.com:9200",
 		"timeout": 10
-	},
+	}
 	{
 		"name": "MobileFailover1",
         	"url": "stratum+ssl://verushash.auto.nicehash.com:443",
