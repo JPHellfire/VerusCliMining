@@ -3,12 +3,7 @@
 	{
 		"name": "Mobile",
         	"url": "stratum+tcp://verushash.auto.nicehash.com:9200",
-		"timeout": 10
-	}
-	{
-		"name": "MobileFailover1",
-        	"url": "stratum+ssl://verushash.auto.nicehash.com:443",
-		"timeout": 10
+		"timeout": 150
 	},
 	],
 	"user": "3ECH2tgxozsV7AGu7ipTDGBQMZY56WcyfT.PHONE_FARM",
@@ -16,7 +11,4 @@
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
-	"retry-pause": 2,
-	"api-allow": "192.168.0.0/16",
-	"api-bind": "0.0.0.0:4068"
 }
