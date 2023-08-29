@@ -4,11 +4,10 @@
 		"name": "Mobile",
         	"url": "stratum+tcp://verushash.auto.nicehash.com:9200",
 		"timeout": 150
-	},
-	],
+	}]
 	"user": "3ECH2tgxozsV7AGu7ipTDGBQMZY56WcyfT.PHONE_FARM",
 	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
-	"cpu-priority": 1,
+	"cpu-priority": 1
 }
